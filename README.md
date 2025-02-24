@@ -14,4 +14,6 @@ This project implements a Multilayer Perceptron (MLP) from scratch using NumPy. 
 - `train_mpg_final.py` - Script to train and evaluate the MLP on the Vehicle MPG dataset.
 
 ## How to Run
-1. Clone this repository:
+1. To download this project, open a terminal and run:
+```sh
+git clone https://github.com/Ahmed-Tohamy/CS7700_course_project_I.git
