@@ -1,0 +1,9 @@
+__pycache__/
+venv/
+*.csv
+*.data
+*.mat
+install_packages.py
+download_mnist.py
+working_*.py
+mnist_data/
